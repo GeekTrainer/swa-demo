@@ -11,9 +11,6 @@ const config = {
 			assets: 'build',
 			fallback: null
 		}),
-		// files: {
-		// 	assets: 'static'
-		// },
 	}
 };
 
