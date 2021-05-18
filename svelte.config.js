@@ -10,7 +10,10 @@ const config = {
 			pages: 'build',
 			assets: 'build',
 			fallback: null
-		})
+		}),
+		files: {
+			assets: 'static'
+		},
 	}
 };
 
